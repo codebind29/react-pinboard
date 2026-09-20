@@ -62,8 +62,10 @@ While building this project, I practiced:
 
 ## 🔌 APIs
 
-This project uses external image APIs to fetch visual content.
+This project uses external APIs to fetch visual content.
 
-The API logic is kept separately inside:
-```text
-src/api/mediaApi.js 
+The API integration is handled separately in:
+
+`src/api/mediaApi.js`
+
+API keys are stored securely using environment variables and are not included in the repository.
