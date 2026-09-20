@@ -46,9 +46,9 @@ This project uses external image APIs to fetch visual content.
 
 The API logic is kept separately inside:
 
-## 🔌 SCREENSHOTS
+##  SCREENSHOTS
 
-HomePage
+### HomePage
 
 <img width="1352" height="647" alt="image" src="https://github.com/user-attachments/assets/2af1c694-906a-4210-b61e-87b53c3d40d4" />
 
@@ -58,7 +58,7 @@ HomePage
 
 <img width="1366" height="632" alt="image" src="https://github.com/user-attachments/assets/a27a47b7-0180-4cf1-93a6-726ac2b308ad" />
 
-CollectionPage
+### CollectionPage
 
 <img width="1365" height="641" alt="image" src="https://github.com/user-attachments/assets/170ea037-9727-42a7-9d92-8bb14d7f69bd" />
 
