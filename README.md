@@ -40,12 +40,6 @@ While building this project, I practiced:
 - Conditional rendering
 - Responsive UI design
 
-## 🔌 APIs
-
-This project uses external image APIs to fetch visual content.
-
-The API logic is kept separately inside:
-
 ##  SCREENSHOTS
 
 ### HomePage
@@ -65,3 +59,11 @@ The API logic is kept separately inside:
 <img width="1356" height="648" alt="image" src="https://github.com/user-attachments/assets/fc36077f-3d72-4f98-9041-67427c9329eb" />
 
 <img width="1361" height="622" alt="image" src="https://github.com/user-attachments/assets/acef4047-89c3-4942-a5f4-30af40e654dd" />
+
+## 🔌 APIs
+
+This project uses external image APIs to fetch visual content.
+
+The API logic is kept separately inside:
+```text
+src/api/mediaApi.js 
